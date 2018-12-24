@@ -1,5 +1,5 @@
 token=NTE2MjY5NDcxMjA0MjQ1NTA0.Du2NrQ.jJIXnw0if4CYV-9T01OG7DAH5kI 
-owner=372362173185392650 
+owner=518792399779004417 
 prefix= .
 game= .play
 stayinchannel=true
